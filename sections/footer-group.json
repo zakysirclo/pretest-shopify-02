@@ -23,7 +23,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/bank_icon_03440030-74b1-489b-aecf-73d8296e6cf9.webp",
-            "image_width": 100,
+            "image_width": 250,
             "alignment": ""
           }
         }
