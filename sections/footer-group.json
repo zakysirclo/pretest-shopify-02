@@ -9,14 +9,14 @@
           "type": "link_list",
           "settings": {
             "heading": "Most Visited",
-            "menu": "footer"
+            "menu": "most-visited"
           }
         },
         "link_list_fktHHT": {
           "type": "link_list",
           "settings": {
             "heading": "Menu",
-            "menu": "footer"
+            "menu": "menu"
           }
         },
         "image_wVCxdn": {
