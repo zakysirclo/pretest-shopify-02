@@ -27,9 +27,11 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/banner1.webp",
+        "image_2": "shopify:\/\/shop_images\/banner3.webp",
         "image_overlay_opacity": 40,
         "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-3",
