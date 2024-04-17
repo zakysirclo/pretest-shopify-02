@@ -4,6 +4,35 @@
   "sections": {
     "footer": {
       "type": "footer",
+      "blocks": {
+        "link_list_jUXjmN": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Most Visited",
+            "menu": "footer"
+          }
+        },
+        "link_list_fktHHT": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Menu",
+            "menu": "footer"
+          }
+        },
+        "image_wVCxdn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bank_icon_03440030-74b1-489b-aecf-73d8296e6cf9.webp",
+            "image_width": 100,
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_jUXjmN",
+        "link_list_fktHHT",
+        "image_wVCxdn"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "newsletter_enable": true,
