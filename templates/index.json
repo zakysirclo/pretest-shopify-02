@@ -44,6 +44,9 @@
         "slide_thtyjY",
         "slide_nrRExT"
       ],
+      "custom_css": [
+        ".slideshow__controls{display: none;}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
