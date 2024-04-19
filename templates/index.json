@@ -314,7 +314,7 @@
             "link": ""
           }
         },
-        "column_TNxkBH": {
+        "column_qKqADD": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/campstool-2.jpg",
@@ -358,7 +358,7 @@
       "block_order": [
         "column_WBfKaD",
         "column_iHHq7h",
-        "column_TNxkBH",
+        "column_qKqADD",
         "column_YjBQzy",
         "column_Vfjyqg",
         "column_iPUCJj"
@@ -370,10 +370,10 @@
         "image_ratio": "adapt",
         "columns_desktop": 6,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
