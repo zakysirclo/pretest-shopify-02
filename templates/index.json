@@ -45,7 +45,7 @@
         "slide_nrRExT"
       ],
       "custom_css": [
-        ".slideshow__controls{display: none;}"
+        ".slideshow__controls {display: none;}"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -126,11 +126,197 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_wazpki": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_n7VAtV": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Flow<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_R7qPKx": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>USB-C with lightning connector, Super Strong, Suprisingly Soft<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_YAebb9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_n7VAtV",
+        "text_R7qPKx",
+        "button_YAebb9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Anker_313_Super_Fast_charging_45W.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_wWyXR9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UnNNEa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_WKiM3W": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_hi7zWg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UnNNEa",
+        "text_WKiM3W",
+        "button_hi7zWg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Anker_313_Super_Fast_charging_45W.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "multicolumn_q7iCiY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_WBfKaD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/boot-2.jpg",
+            "title": "TWS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iHHq7h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hudderton-backpack_dc8afb13-448b-49d9-a042-5a163a97de8f.jpg",
+            "title": "Bags",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TNxkBH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/campstool-2.jpg",
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YjBQzy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/boot-2.jpg",
+            "title": "TWS",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Vfjyqg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hudderton-backpack_dc8afb13-448b-49d9-a042-5a163a97de8f.jpg",
+            "title": "Bags",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iPUCJj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/campstool-2.jpg",
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_WBfKaD",
+        "column_iHHq7h",
+        "column_TNxkBH",
+        "column_YjBQzy",
+        "column_Vfjyqg",
+        "column_iPUCJj"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "slideshow_hn9NCf",
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "image_with_text_wazpki",
+    "image_with_text_wWyXR9",
+    "multicolumn_q7iCiY"
   ]
 }
