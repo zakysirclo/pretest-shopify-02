@@ -227,7 +227,7 @@
         "column_HLicre": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/guaranteed_navy.jpg",
+            "image": "shopify:\/\/shop_images\/hudderton-backpack_dc8afb13-448b-49d9-a042-5a163a97de8f.jpg",
             "title": "Baju 1",
             "text": "",
             "link_label": "Beli Sekarang",
@@ -272,7 +272,7 @@
         "column_xY4D3U"
       ],
       "custom_css": [
-        "img{width:200px; height: 200px;}"
+
       ],
       "settings": {
         "title": "Produk Unggulan",
