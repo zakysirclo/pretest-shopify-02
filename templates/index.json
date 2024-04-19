@@ -221,6 +221,76 @@
         "padding_bottom": 20
       }
     },
+    "multicolumn_ktwzRz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HLicre": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/guaranteed_navy.jpg",
+            "title": "Baju 1",
+            "text": "",
+            "link_label": "Beli Sekarang",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        },
+        "column_DrMiFM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/guaranteed_navy.jpg",
+            "title": "Baju 1",
+            "text": "",
+            "link_label": "Beli Sekarang",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        },
+        "column_iBY3UN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/guaranteed_navy.jpg",
+            "title": "Baju 1",
+            "text": "",
+            "link_label": "Beli Sekarang",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        },
+        "column_xY4D3U": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/guaranteed_navy.jpg",
+            "title": "Baju 1",
+            "text": "",
+            "link_label": "Beli Sekarang",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "column_HLicre",
+        "column_DrMiFM",
+        "column_iBY3UN",
+        "column_xY4D3U"
+      ],
+      "custom_css": [
+        "img{width:200px; height: 200px;}"
+      ],
+      "settings": {
+        "title": "Produk Unggulan",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_q7iCiY": {
       "type": "multicolumn",
       "blocks": {
@@ -317,6 +387,7 @@
     "featured_collection",
     "image_with_text_wazpki",
     "image_with_text_wWyXR9",
+    "multicolumn_ktwzRz",
     "multicolumn_q7iCiY"
   ]
 }
